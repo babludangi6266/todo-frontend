@@ -23,10 +23,10 @@ This is the frontend of the ToDo application, built to provide an intuitive user
 
 1. Clone the repository:
    ```bash
-   git clone <(https://github.com/babludangi6266/todo-frontend.git)>
+   git clone <https://github.com/babludangi6266/todo-frontend.git>
 2. Navigate to the project directory:
    ```cd todo-frontend
 3. Install dependencies:
    ```npm install
-4.Start the development server: 
+4. Start the development server: 
   ```npm start
