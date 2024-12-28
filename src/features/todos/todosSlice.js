@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/todos";
+const API_URL = "https://todolist-backend-jtyq.onrender.com/api/todos";
 
 // Fetch Todos
 export const fetchTodos = createAsyncThunk("todos/fetchTodos", async (_, { getState }) => {
